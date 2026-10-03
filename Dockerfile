@@ -1,0 +1,1 @@
+FROM gozargah/marzban:latest
